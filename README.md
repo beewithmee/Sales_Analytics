@@ -9,3 +9,6 @@ ________________________________________________________________________________
    - Which products are ranked in the top 5 and bottom 5 in terms of quantity sold?
    - What are the new products that Atliq began selling in 2021?
    - What are the top 5 countries in terms of net sales in 2021?
+
+2) Finance P&L Report
+   - Two Atliq Hardware Yearly and Quartely reports.
